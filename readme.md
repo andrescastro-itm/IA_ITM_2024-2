@@ -22,5 +22,6 @@ Contenido del curso:
     - [Autograd de Pytorch](/Clase08/pytorch-autogradEjemploClase.ipynb)
 - [Clase 9 - Máquinas de Vectores de Soporte](/Clase09/SVM_kernel.ipynb)
 - Clase 15:
-    - [Softmax](/Clase15/1_softmax_regression_mnist.ipynb)
-    - [Árboles de decisión](/Clase15/2_mlp-pytorch_softmax-crossentr.ipynb)
+    - [Regresión Softmax](/Clase15/1_softmax_regression_mnist.ipynb)
+    - [Perceptrón Multicapa](/Clase15/2_mlp-pytorch_softmax-crossentr.ipynb)
+- [Clase 16 - Funciones de activación](/Clase16/xor-problem.ipynb)
