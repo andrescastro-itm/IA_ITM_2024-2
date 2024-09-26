@@ -25,3 +25,4 @@ Contenido del curso:
     - [Regresión Softmax](/Clase15/1_softmax_regression_mnist.ipynb)
     - [Perceptrón Multicapa](/Clase15/2_mlp-pytorch_softmax-crossentr.ipynb)
 - [Clase 16 - Funciones de activación](/Clase16/xor-problem.ipynb)
+- [Clase 17 - Análisis de Componentes Principales (PCA)](/Clase17/PCA.ipynb)
