@@ -26,3 +26,9 @@ Contenido del curso:
     - [Perceptrón Multicapa](/Clase15/2_mlp-pytorch_softmax-crossentr.ipynb)
 - [Clase 16 - Funciones de activación](/Clase16/xor-problem.ipynb)
 - [Clase 17 - Análisis de Componentes Principales (PCA)](/Clase17/PCA.ipynb)
+- Clase 18:
+    - [Ejemplo Convoluciones](/Clase18/1-MLP_CNN.ipynb)
+    - [Convolución y Correlación Cruzada](/Clase18/2-cross-correlation.ipynb)
+    - [Red LeNet](/Clase18/3-lenet5-mnist.ipynb)
+    - [Red AlexNet](/Clase18/4-alexnet-cifar10.ipynb)
+    - [Ejemplo CIFAR10](/Clase18/5-cnn-cifar10.ipynb)
