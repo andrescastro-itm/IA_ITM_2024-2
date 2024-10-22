@@ -36,3 +36,7 @@ Contenido del curso:
     - [Batch Normalization](/Clase23/batchnorm.ipynb)
     - [Dropout](/Clase23/dropout.ipynb)
     - [Data Augmentation](/Clase23/data-augmentation.ipynb)
+- Clase 24:
+    - [VGG16](/Clase24/1.1-vgg16.ipynb)
+    - [Resnet](/Clase24/2-resnet-example.ipynb)
+    - [Resnet 34](/Clase24/2-resnet34.ipynb)
