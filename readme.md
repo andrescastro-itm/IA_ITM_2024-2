@@ -40,3 +40,4 @@ Contenido del curso:
     - [VGG16](/Clase24/1.1-vgg16.ipynb)
     - [Resnet](/Clase24/2-resnet-example.ipynb)
     - [Resnet 34](/Clase24/2-resnet34.ipynb)
+- [Clase 25 - Interpretabilidad](/Clase25/Interpretabilidad1.ipynb)
