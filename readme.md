@@ -41,3 +41,4 @@ Contenido del curso:
     - [Resnet](/Clase24/2-resnet-example.ipynb)
     - [Resnet 34](/Clase24/2-resnet34.ipynb)
 - [Clase 25 - Interpretabilidad](/Clase25/Interpretabilidad1.ipynb)
+- [Clase 32 - Autoencoder y Autoencoder Variacional](/Clase32/01_AE_VAE_MNIST.ipynb)
